@@ -1,0 +1,12 @@
+h1 {
+	font-family: sans-serif;
+}
+
+button {
+ 	background-color: white;
+    border: 5px;
+    padding: 20px;
+    margin: 10px; 
+    display: block;	
+
+}
